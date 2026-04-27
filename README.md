@@ -5,4 +5,5 @@
 - /modules/call_queue.py
 - /modules/progress.py
 - /javascript/contextMenus.js
+
 目前在 Generate Forever 過程中，不會接收修改的參數包含prompt，請 Cancel Generate Forever 後再重新 Generate 就可以了'
